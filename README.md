@@ -70,4 +70,7 @@ And that's it!
 
 <a href='https://learn.co/lessons/sinatra-sessions' data-visibility='hidden'>View this lesson on Learn.co</a>
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-sessions/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-sessions/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Using Sessions</p>
